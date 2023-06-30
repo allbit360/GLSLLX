@@ -1,1 +1,1 @@
-# GLSLLX
+Name = Goody# GLSLLX
